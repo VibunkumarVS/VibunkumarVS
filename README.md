@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VibunkumarVS
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working on nodejs, typescript, jest, kafka, terraform, redis, c++
+- 🌱 I’m currently working on nodejs, typescript, graphql, kubernetes, helm, AWS, kafka, terraform, redis,  jest, c++
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me vibunkumar98@gmail.com
 
